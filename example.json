@@ -1,0 +1,8 @@
+{
+  "documents": [
+    {
+      "path": "src/settings.py",
+      "text": "API_KEY = \"aB7x9Q2n4T6m8R0p3Z5v1H7k\"\nkey = \"AKIAABCDEFGHIJKLMNOP\"\n"
+    }
+  ]
+}
